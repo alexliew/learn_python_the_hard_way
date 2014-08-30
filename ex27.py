@@ -1,0 +1,1 @@
+# Logic table memorization
